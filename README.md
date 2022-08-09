@@ -1,0 +1,2 @@
+# Rock_Paper_Scissor
+I have made a famous game rock-paper-scissor using python, where the player plays against the computer. Player enters his choice as 'R' for Rock, 'P' for paper, 'S' for scissor. And computer also choose any one at random. Then based upon the  rules of the game anyone wins and the other looses. The rule is very simple. Rock wins over scissor, Scissor wins over paper and paper wins over rock.
